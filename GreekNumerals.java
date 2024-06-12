@@ -14,8 +14,7 @@ public class GreekNumerals {
         String S = "XLLIM";
         for (int i = 0; i < S.length(); i++) {
             String Q = String.valueOf(S.charAt(i));
-
-            switch (Q) {
+                     switch (Q) {
 
                 case "I":
                     sum = sum + 1;
