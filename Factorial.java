@@ -16,7 +16,8 @@ public class Factorial {
     }
 
 
-  /*public static Integer recursive(int i) {
+  /* با متغییر کد ریویو راحت تر است چون میتوان به متغییر مقدارهای مختلف داد
+  public static Integer recursive(int i) {
         int b = 5;
         if (i == 0) {
             b = 1;
